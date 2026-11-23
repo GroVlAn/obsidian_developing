@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Parallel Map"
             }
-          },
-          {
-            "id": "4ff124a0777df2ae",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.14.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "примечания к выпуску 1.14.4"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,10 +182,11 @@
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "bases:Создать новую базу": false
+      "bases:Создать новую базу": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4ff124a0777df2ae",
+  "active": "d8104241f25683f8",
   "lastOpenFiles": [
     "golang/tasks/Number pipeline.md",
     "golang/tasks/Merge K sorted streams.md",
