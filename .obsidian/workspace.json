@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "00b1dbb087b610d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "8506f7014aac2a82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8104241f25683f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "golang/tasks/Parallel Map.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Parallel Map"
+            }
+          },
+          {
+            "id": "4ff124a0777df2ae",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "примечания к выпуску 1.14.4"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7dfadd0006805bfc",
+    "type": "split",
+    "children": [
+      {
+        "id": "3072ff975cba4336",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91656bc882d5328a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "85097c655b37f0d8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "6edea5b82cfc6a83",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e5c99cb922eeeeb4",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6adb63c1d3f6d8b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b4d2d564a57e1cf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "algorithms and data structures/algorithms/tasks/Group Anagrams.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Group Anagrams"
+            }
+          },
+          {
+            "id": "f41c18d637767476",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "algorithms and data structures/algorithms/tasks/Group Anagrams.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Group Anagrams"
+            }
+          },
+          {
+            "id": "331b390bc51bf3a4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "0b95223da638c986",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "e49794ee1c97e228",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "algorithms and data structures/algorithms/tasks/Group Anagrams.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Group Anagrams"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
+    }
+  },
+  "active": "4ff124a0777df2ae",
+  "lastOpenFiles": [
+    "golang/tasks/Number pipeline.md",
+    "golang/tasks/Merge K sorted streams.md",
+    "golang/tasks/Merge channels.md",
+    "golang/tasks/LRU Cache с TTL.md",
+    "golang/tasks/Intersection of slices.md",
+    "golang/tasks/Generate randon number.md",
+    "golang/tasks/Fan-in.md",
+    "golang/tasks/Concurrent Map.md",
+    "golang/tasks/Bounded Queue.md",
+    "golang/tasks/Batch Processing.md",
+    "golang/tasks/Ограничение concurrency без worker pool.md",
+    "golang/tasks/Top K событий из потока.md",
+    "golang/tasks/Worker Pool.md",
+    "golang/tasks/Singleflight.md",
+    "golang/tasks/Parallel Map.md",
+    "DB/Уровни изолированности транзакций.md",
+    "golang/tasks",
+    "algorithms and data structures/algorithms/tasks/Valid Sudoku.md",
+    "algorithms and data structures/algorithms/tasks/Valid Palindrome.md",
+    "algorithms and data structures/algorithms/tasks/Valid Anagram.md",
+    "algorithms and data structures/algorithms/tasks/Two Sum.md",
+    "algorithms and data structures/algorithms/tasks/Top K Frequent Elements.md",
+    "algorithms and data structures/algorithms/tasks/Products of Array Except Self.md",
+    "algorithms and data structures/algorithms/tasks/Longest Palindrome.md",
+    "algorithms and data structures/algorithms/tasks/Longest Consecutive Sequence.md",
+    "algorithms and data structures/algorithms/tasks/Group Anagrams.md",
+    "algorithms and data structures/algorithms/tasks/Encode and Decode Strings.md",
+    "DB",
+    "algorithms and data structures/theory",
+    "Pasted image 20260905190749.png",
+    "golang/core",
+    "Pasted image 20260823164959.png",
+    "Pasted image 20260823164442.png",
+    "web",
+    "golang/concurrency and parallelism",
+    "Сomputer science",
+    "golang/base",
+    "golang",
+    "Без названия.canvas",
+    "algorithms and data structures/algorithms/tasks"
+  ]
+}

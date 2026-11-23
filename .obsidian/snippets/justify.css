@@ -1,0 +1,8 @@
+.cm-line {
+	text-align: justify !important;
+}
+.markdown-reading-view p,
+.markdown-reading-view ol > li,
+.markdown-reading-view ul > li {
+	text-align: justify !important;
+}
